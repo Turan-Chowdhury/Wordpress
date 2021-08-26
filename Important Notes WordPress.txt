@@ -1,0 +1,24 @@
+username - turan
+password - 123
+
+
+WordPress -
+
+SITES-
+
+* pexels.com  * unsplash.com  * depositphotos.com  * stock.adobe.com  * free stock photos -> for photos
+* flaticon.com -> for icons
+* flatuicolors.com -> for colors
+* tinypng.com/tinyjpg.com -> for image optimize
+
+PLUGINS -
+
+Elementor -> page editor
+contact form 7 -> form
+widget for social page feeds -> facebook page like widget
+
+smush -> image optimizer
+autoptimize -> html, css, js file optimizer
+w3 total cache -> to catch caches
+
+duplicator -> duplicate site for transfering from local to live server
